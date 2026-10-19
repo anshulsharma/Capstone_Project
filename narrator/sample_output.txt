@@ -1,0 +1,8 @@
+Situation
+Mamaearth's cleaned order book totals INR 97,358.30 across 175 valid orders. The raw extract reported INR 99,860.20, so the first step was to reconcile the two figures before trusting any trend.
+
+Complication
+The gap of INR 2,501.90 comes entirely from five duplicate orders caused by double submissions. Imputing missing discounts and ratings does not change any order value. Returns are also concentrated in COD orders, which return at 44.4% compared with 14.7% for Card and 18.9% for UPI. The highest-risk segment is COD orders in Tier 2 cities, at a 54.5% return rate. Revenue also looks misleadingly strong in January: the apparent figure of INR 29,582.10 is driven by two bulk orders, and the corrected figure is INR 11,637.10.
+
+Resolution
+Focus return-reduction efforts on COD orders in Tier 2 cities, since that is where the loss is concentrated. Plan inventory and staffing around March, the true peak month, with revenue of INR 20,318.90 once the outliers are excluded.

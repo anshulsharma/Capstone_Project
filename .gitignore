@@ -1,0 +1,12 @@
+# Secrets: never commit API keys or local env files
+.env
+.env.*
+*.key
+
+# Python and virtual environment clutter
+.venv/
+__pycache__/
+*.pyc
+
+# Local SQLite file, if you used one
+*.db
