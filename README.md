@@ -9,6 +9,7 @@ a SQL layer (reporting), a pandas layer (cleaning and analysis), and a GenAI lay
 ```
 <repo>/
 ├── README.md
+├── requirements.txt
 ├── sql/
 │   ├── schema.sql
 │   ├── seed_data.sql
@@ -33,6 +34,8 @@ a SQL layer (reporting), a pandas layer (cleaning and analysis), and a GenAI lay
 - Python 3.10+ with `pandas`, `matplotlib`, `google-genai`
 - MySQL 8.0+ server, with MySQL Workbench for running the SQL
 - A Gemini API key from Google AI Studio (optional; see Part 3)
+- Install the requirements using below command
+    pip install -r requirements.txt
 
 
 ## Development Environment : 
